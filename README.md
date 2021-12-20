@@ -11,9 +11,9 @@
 
 교제 1은 `Ubuntu` 텍스트 북입니다. 밑의 `교제2` 에 나오는 것 처럼 다 이해를 못 하시더라도 이런게 있구나 하시고 넘어가셔도 됩니다. 그래도 한번씩 실행시켜보시고 나중에 이런게 있었지 라고 기억하실 정도로만 일단 아셔도 됩니다.
 
-[주교제 2](https://ccss17.netlify.app/programmerbase/)
-[참조 1](https://missing.csail.mit.edu/)
-[참조 2](https://linuxcommand.org/tlcl.php)
+[주교제 2 : Programmer Base(ccss)](https://ccss17.netlify.app/programmerbase/)
+[참조 1: Missing Semester](https://missing.csail.mit.edu/)
+[참조 2: Linux Commands](https://linuxcommand.org/tlcl.php)
 
 #### 한 주 동안 배우는 내용
 - Linux commands
