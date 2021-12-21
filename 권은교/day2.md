@@ -1,7 +1,7 @@
 # Rust language  
 
 ### 6년째 사랑받는 언어 **Rust**  
-![Rust](Rust.png)    
+![Rust](https://user-images.githubusercontent.com/83119017/146872771-163edaf6-7d29-4e3f-aaa5-780d22ae2aaa.png)    
 
 ---
 ### 2021년 developer survey  
