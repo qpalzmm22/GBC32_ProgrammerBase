@@ -48,8 +48,8 @@ https://ccss17.netlify.app/programmerbase/02-day2/readme/
 
 ### 과제
 1. 교재 읽고 따라해보기 ch.3 ~ ch. 4
-2. https://github.com/qpalzmm22/GBC32_ProgrammerBase.git fork하고 Day1 에 본인 이름으로 directory 만들고 
-3. https://ccss17.netlify.app/programmerbase/02-day2/hw2/ 2 번의 폴더에 이것 작성해서 `pull request` 하기
+2. https://github.com/qpalzmm22/GBC32_ProgrammerBase.git fork하고 Day1 에 본인 이름으로 directory 안에 hw2.md 만들고 
+3. https://ccss17.netlify.app/programmerbase/02-day2/hw2/ hw2.md에 이것 작성해서 `pull request` 하기
  
 
 ## Day 3
