@@ -16,13 +16,13 @@
 - First release: 3 Dec 2016
 - Last release: 13 Dec 2021 (Version 1.0.62)
 
-![version](version.png)
+![version](version.PNG)
 
 <br>
 
 >**Example**
 
-![capture](capture.png)
+![capture](capture.PNG)
 
 
 <br>
@@ -34,4 +34,4 @@
 - **However**, Bracket Pair Colorizer provides customizing modes with different color sequences.
 - Still, worty to **install!!**
 
-![customize](customize.png)
+![customize](customize.PNG)
