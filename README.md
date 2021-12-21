@@ -30,15 +30,12 @@
 아래의 링크타셔서 그대로 따라해주세요. docker container에서 위의 명령어들을 실습하시면 됩니다.
 https://ccss17.netlify.app/programmerbase/01-day1/readme/ 
 
-
 ### 과제
 
 1. 교재 읽고 따라해보기 ch.1 ~ ch.2
 2. Docker 로 container 다운로드 및 `nyancat` 실행해보기
     ```sh
     $ nyancat
-    ```
-
     ![nyancat](img/nyancat.gif)
 3. https://ccss17.netlify.app/programmerbase/01-day1/readme/ 읽기
 
@@ -51,19 +48,29 @@ https://ccss17.netlify.app/programmerbase/02-day2/readme/
 
 ### 과제
 1. 교재 읽고 따라해보기 ch.3 ~ ch. 4
-2. https://github.com/qpalzmm22/GBC32_ProgrammerBase.git fork하고 Day1 에 본인 이름으로 directory 만들어서 `pull request` 하기 
-
+2. https://github.com/qpalzmm22/GBC32_ProgrammerBase.git fork하고 Day1 에 본인 이름으로 directory 만들고 
+3. https://ccss17.netlify.app/programmerbase/02-day2/hw2/ 2 번의 폴더에 이것 작성해서 `pull request` 하기
+ 
 
 ## Day 3
 
+
 ### 과제
-1. 교재 읽고 따라해보기 ch.5 ~ ch. 6
+1. 교재 읽고 따라해보기 ch.5 ~ ch. 6, ch.7 ~ ch. 7.2 
+2. 
+
+
 
 ## Day 4
 
+## vim && tmux
+https://ccss17.netlify.app/programmerbase/03-day3/readme/
+
 ### 과제
-1. 교재 읽고 따라해보기  ch.7 ~ ch. 7.2 , ch. 8(부분적), ch. 9, ch. 10
+1. 교재 읽고 따라해보기 ch. 8(부분적), ch. 9, ch. 10
 
 ## Day 5
 
 ### 과제
+
+a
