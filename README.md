@@ -54,10 +54,13 @@ https://ccss17.netlify.app/programmerbase/02-day2/readme/
 
 ## Day 3
 
+### Vim && tmux 공부
+https://ccss17.netlify.app/programmerbase/03-day3/readme/
 
 ### 과제
 1. 교재 읽고 따라해보기 ch.5 ~ ch. 6, ch.7 ~ ch. 7.2 
-2. 
+2. https://ccss17.netlify.app/programmerbase/03-day3/readme/ `vim`, `tmux` 읽기
+3. 100줄 가량의 프로그램 `vim`, `tmux` 사용해 짜기 (가령 백준 실버 문제) https://www.acmicpc.net/problemset 를 풀고 푼 프로그램을 `pull request` 하기 (바이너리 파일은 제외해주세요.)
 
 
 
