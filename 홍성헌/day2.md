@@ -7,7 +7,7 @@
 - Free extension
 - Increase Readability and Visuality of Source code
 
-![image](bracket.png)
+![image](bracket.PNG)
 
 <br>
 
