@@ -22,7 +22,7 @@
 
 >**Example**
 
-![capturqe](capture.png)
+![capture](capture.png)
 
 
 <br>
