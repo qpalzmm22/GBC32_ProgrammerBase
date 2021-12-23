@@ -17,7 +17,7 @@ parentheses, brackets, quotes, XML tags, and more. The plugin provides mappings 
 
 >**History**
 
-![version](info.PNG)
+![version](Info.PNG)
 
 <br>
 
