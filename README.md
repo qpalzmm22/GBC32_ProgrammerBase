@@ -71,7 +71,7 @@ https://ccss17.netlify.app/programmerbase/03-day3/readme/
 ### 과제
 1. 교재 읽고 따라해보기 ch. 8(부분적), ch. 9, ch. 10
 2. cli upgrade : https://ccss17.netlify.app/programmerbase/cli/#cl
-3. https://ccss17.netlify.app/programmerbase/04-day4/hw4/s
+3. https://ccss17.netlify.app/programmerbase/04-day4/hw4/
 
 ## Day 5
 
