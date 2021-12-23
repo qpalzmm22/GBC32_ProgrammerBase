@@ -24,11 +24,19 @@ parentheses, brackets, quotes, XML tags, and more. The plugin provides mappings 
 >**Installation**
 
 1. home directory의 최상위에서 $ vi ~/.vimrc
+
 <br>
+
 2. Plug 'tpope/vim-surround' 추가
+
+
 ![customize](plug.PNG)
+
+
 <br>
 3. home directory의 최상위에서 아래 **commandLines** 입력
+
+
 ![capturqe](install1.PNG)
 
 <br>
