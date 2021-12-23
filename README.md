@@ -63,14 +63,15 @@ https://ccss17.netlify.app/programmerbase/03-day3/readme/
 3. 100줄 가량의 프로그램 `vim`, `tmux` 사용해 짜기 (가령 백준 실버 문제) https://www.acmicpc.net/problemset 를 풀고 푼 프로그램을 `pull request` 하기 (바이너리 파일은 제외해주세요.)
 
 
-
 ## Day 4
 
-## vim && tmux
-https://ccss17.netlify.app/programmerbase/03-day3/readme/
+### configs 
+- upgrade cli : https://ccss17.netlify.app/programmerbase/cli/#cli
 
 ### 과제
 1. 교재 읽고 따라해보기 ch. 8(부분적), ch. 9, ch. 10
+2. cli upgrade : https://ccss17.netlify.app/programmerbase/cli/#cl
+3. https://ccss17.netlify.app/programmerbase/04-day4/hw4/s
 
 ## Day 5
 
